@@ -1,4 +1,4 @@
-# RISJbot
+# RISJbot - An Amazing Project
 A scrapy project to extract the text and metadata of articles from news
 websites.
 
